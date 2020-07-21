@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4gray" alt="4gray" /> </p>
 
-- 🔭 I’m currently working on [oversetter](https://4gray.github.io/oversetter/)
+- 🔭 I’m currently working on [Oversetter](https://4gray.github.io/oversetter/)
+- 👯 I’m looking to collaborate on [IPTV Player PWA](https://github.com/4gray/my-iptv-player-pwa)
 
 - 💬 Ask me about **angular, javascript**
 
