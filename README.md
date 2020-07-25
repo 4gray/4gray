@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on [IPTV Player PWA](https://github.com/4gray/my-iptv-player-pwa)
 - 💬 Ask me about **Angular, JavaScript**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4gray&show_icons=true&theme=radical" alt="4gray" /> </p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=4gray&show_icons=true&theme=radical" alt="4gray" /> </p>
