@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning Vue, Svelte & GraphQL
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=4gray&show_icons=true&theme=radical" alt="4gray" /> </p>
+
+<a href="https://www.linkedin.com/in/sergej-tschigraj-4600b71a4/"><img src="./assets/linkedin.svg"></a>&nbsp;<a href="https://www.xing.com/profile/Sergej_Tschigraj/cv"><img src="./assets/xing.png" height="64"></a>
