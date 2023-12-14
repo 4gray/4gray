@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4gray" alt="4gray" /> </p>
 
 - 🔭 I’m mainly working on [IPTVnator](https://github.com/4gray/iptvnator)
-- 🌱 I’m currently learning Vue, Svelte & GraphQL
 - :earth_asia: I like to travel and here is my modest collection of [panorama photos](https://4gray.github.io/panoramas/) 
 - 📓 some notes are available on [Medium](https://medium.com/@4gray)
 
