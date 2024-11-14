@@ -1,5 +1,5 @@
-<h1>👋 Hi there and welcome to my profile</h3>
-<h3>I'm Sergej, a full stack JavaScript developer from Germany</h4>
+<h3>👋 Hi there</h3>
+<p>I'm Sergej, a full stack JavaScript developer from Germany</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4gray" alt="4gray" /> </p>
 
 - 🔭 I’m mainly working on [IPTVnator](https://github.com/4gray/iptvnator)
